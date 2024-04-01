@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/shaders">
+        <file alias="default_vertex.glsl">../shaders/default_vertex.glsl</file>
+        <file alias="default_fragment.glsl">../shaders/default_fragment.glsl</file>
+
+        <file alias="line_fragment.glsl">../shaders/line_fragment.glsl</file>
+        <file alias="line_geometry.glsl">../shaders/line_geometry.glsl</file>
+
+        <file alias="pcircle_fragment.glsl">../shaders/pcircle_fragment.glsl</file>
+        <file alias="pcircle_geometry.glsl">../shaders/pcircle_geometry.glsl</file>
+    </qresource>
+</RCC>
